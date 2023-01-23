@@ -2,7 +2,6 @@ package guru.springframework.msscbrewery.web.controller.v2;
 
 import guru.springframework.msscbrewery.services.v2.BeerServiceV2;
 import guru.springframework.msscbrewery.web.model.v2.BeerDtoV2;
-import javax.validation.Valid;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
